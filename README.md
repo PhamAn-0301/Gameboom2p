@@ -16,5 +16,5 @@ game đặt boom 2 người bằng winform
 ## 💻 Hướng dẫn chạy:
 - Mở bằng Visual Studio 2019/2022
 - Build solution và chạy game
-
+- Có thể chạy thẳng từ file exe
 
